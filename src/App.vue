@@ -5,10 +5,10 @@
   </div>
 </template>
 
+
 <style lang="less">
 #app {
-
-  background-color: #2c3e50;
+  height: 100%;
 }
 
 </style>
